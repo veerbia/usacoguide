@@ -1,1 +1,1 @@
-### Keeping track of my progress through usaco.guide
+keeping track of my progress through usaco.guide
